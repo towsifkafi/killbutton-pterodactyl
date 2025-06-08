@@ -1,0 +1,37 @@
+info:
+  name: "KillButton"
+  identifier: "killbutton"
+  description: "Adds separate buttons for Kill action."
+  flags: ""
+  version: "1.0.0"
+  target: "beta-2024-12"
+  author: "towsifkafi"
+  icon: ""
+  website: ""
+
+admin:
+  view: "view.blade.php"
+  controller: ""
+  css: ""
+  wrapper: ""
+
+dashboard:
+  css: "css/main.css"
+  wrapper: ""
+  components: "components"
+
+data:
+  directory: ""
+  public: ""
+  console: ""
+
+requests:
+  views: ""
+  app: ""
+  routers:
+    application: ""
+    client: ""
+    web: ""
+
+database:
+  migrations: ""
